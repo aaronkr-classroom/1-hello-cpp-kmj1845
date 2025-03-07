@@ -1,3 +1,3 @@
-# CPP
+# 1-hello-cpp
 
-Starter Template repository for CPP work - including basic gitignore and README.
+1주차 C++ 실습 - Make a simple Hello World program in the language for the class
